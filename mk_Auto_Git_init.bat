@@ -30,4 +30,7 @@ git init
 REM リモートリポジトリを設定
 git remote add origin %destination_folder_V%
 
+REM SourceTreeを起動
+C:\Users\SystemUser12\AppData\Local\SourceTree\SourceTree.exe
+
 pause
