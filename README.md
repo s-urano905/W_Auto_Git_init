@@ -4,7 +4,7 @@
 ## 用意するもの
 C:の下にGit_Sourceというフォルダを作る。
 
-SourceTree。
+SourceTree（必要なら）。
 
 gitのちょっとした知識。
 
@@ -13,11 +13,9 @@ Git_Sourceの中にP_*,V_*,W_*の3つのフォルダを作成するbatファイ�
 
 git init や リモートリポジトリの設定などを自動で行います。
 
-SourceTreeにはW_で始まるものをAddで追加してください。
+SourceTreeにはW_で始まるものをAddで追加してください（SourceTreeを使うなら）。
 
 V_から始まるファイルをリモートリポジトリ（ローカル）として機能させます。
-
-batファイルでSourceTreeを開くようにしているが必要なければ消す。
 
 ## 使い方
 任意のフォルダにW_Auto_Git_init.batを置く。
@@ -28,7 +26,7 @@ batファイルでSourceTreeを開くようにしているが必要なければ�
 
 すると、Git_Sourceフォルダの中にP_＊のフォルダができ中にV_＊.gitとW_＊フォルダができる。
 
-あとは概要の通りW_＊のフォルダをSourceTreeのAddで追加するだけ。
+あとは概要の通りW_＊のフォルダをSourceTreeのAddで追加するだけ（SourceTreeを使うなら）。
 
 ## 参考
 [https://samehack.com/git-local/](https://samehack.com/git-local/)
