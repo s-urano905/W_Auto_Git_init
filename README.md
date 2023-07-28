@@ -22,7 +22,7 @@ batファイルでSourceTreeを開くようにしているが必要なければ�
 ## 使い方
 任意のフォルダにW_Auto_Git_init.batを置く。
 
-その後、Winキー+Rで「shll:sendto」と入力しEnter、その中にW_Auto_Git_init.batの任意の名前でショートカットを作る。
+その後、Winキー+Rで「shell:sendto」と入力しEnter、その中にW_Auto_Git_init.batの任意の名前でショートカットを作る。
 
 バージョン管理したいフォルダを右クリック→送るから任意で付けた名前のショートカットを選択。
 
