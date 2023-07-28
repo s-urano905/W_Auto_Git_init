@@ -30,6 +30,7 @@ batファイルでSourceTreeを開くようにしているが必要なければ�
 
 あとは概要の通りW_＊のフォルダをSourceTreeのAddで追加するだけ。
 
-参考：[https://samehack.com/git-local/](https://samehack.com/git-local/)
+## 参考
+[https://samehack.com/git-local/](https://samehack.com/git-local/)
 
 [ChatGPT](https://chat.openai.com/)https://chat.openai.com/
